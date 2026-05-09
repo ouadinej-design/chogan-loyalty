@@ -1,5 +1,5 @@
 {
-me": "chogan-loyalty-premium",
+  "name": "chogan-loyalty-premium",
   "version": "1.0.0",
   "private": true,
   "scripts": {
